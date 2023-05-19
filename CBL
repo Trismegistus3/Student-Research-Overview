@@ -1,0 +1,53 @@
+<html>
+<head>
+<title> Rheumatology case 
+</title>
+<body>
+<h1>
+Case 1: Joint Pain
+</h1>
+<br>
+<b>
+History of present illness: </br>
+</b>
+A 35 yo W presents to the office today complaining of pain in the joints of both hands. She describes achy pain and stiffness worse in the mornings in the carpal, metacarpophalangeal, and proximal interphalangeal joints of her hands. She first noticed symptoms 3 months ago, but they have progressively worsened. This impacts her job as a receptionist negatively, as she spends most of her day typing. She expresses concern that she may not be able to continue working if symptoms progress. She rates her pain as 6/10 in the mornings, improving to 1/10 later in the afternoon or evenings. She has tried NSAIDS with incomplete relief, but has been trying to space these out as she has recently experienced stomach pain. Her toes are also painful. 
+<br>
+She has a history of hypertension and anemia, for which she takes losartan 50 mg qd and a daily oral iron supplement. Her blood pressure today is 122/76 mmHg. 
+<br>
+She has no surgical history. 
+<br>
+She has a history of past smoking of 0.5 packs per day for 5 years, having stopped 10 years ago. She drinks socially. She occasionally has smoked marijuana but is not a routine user, and does not do any other drugs. 
+She reports a family history with a paternal aunt having "gnarled fingers" and limited mobility. Her paternal grandmother has a history of lymphoma which was treated successfully and entered remission.
+Her father has a history of coronary artery disease, for which he takes a statin. Her mother is in good health. She lives with her partner of 10 years and they have a "fluffy puppy." She is uncertain whether her partner is monogamous with her, but they routinely use protection.
+<br>
+Ten differential diagnoses<br>
+1. Osteoarthritis
+<br>
+<P>1. Osteoarthritis<BR>
+<input type="radio" name="OA" value="nicotine">smoking history<BR>
+<input type="radio" name="OA" value="age">age, atypical joint presentation affected<BR>
+<input type="radio" name="OA" value="overuse">overuse<BR>
+<input type="radio" name="OA" value="EtOH">alcohol use<BR>
+</p>
+2. Systemic Lupus Erythematosis 
+<br>
+<input type="radio" name="SLE" value="gender">gender<BR>
+<input type="radio" name="SLE" value="age">age, atypical joint presentation affected<BR>
+<input type="radio" name="SLE" value="age">age, progressive course<BR>
+<input type="radio" name="OA" value="EtOH">alcohol use<BR>
+3. Limited Scleroderma
+<br>
+4. Diffuse Scleroderma 
+<br>
+5. Reactive Arthritis 
+<br>
+6. Rheumatoid Arthritis 
+<br>
+7. Psoriatic arthritis
+<br>
+8. IBD-associated arthritis 
+<br>
+9. Fibromyalgia
+<br>
+10. Sjogren's Syndrome
+
